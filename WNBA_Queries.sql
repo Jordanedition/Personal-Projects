@@ -1,4 +1,4 @@
-#Sacramento Monarchs
+#Sacramento Monarchs Historical Scouting Success
 SELECT 
     player, 
     year, 
@@ -8,7 +8,7 @@ FROM wnbadraft w
 WHERE team = 'Sacramento Monarchs'
 ORDER BY win_shares DESC;
 
-#Draft Efficency
+#Draft Efficency Draft Asset Valuation
 SELECT 
     overall_pick, 
     AVG(win_shares * 1.0) AS avg_career_value,
