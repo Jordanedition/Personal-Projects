@@ -14,7 +14,8 @@ The analysis is built on a comprehensive draft history table:
 
 This analysis calculates the average career Win Shares for each draft position (1–10). This helps a front office determine if the cost of trading up is justified by the expected increase in player production.
 
-![alt text](ScoutingCard.png)
+<img width="800" height="2000" alt="Scouting Card" src="https://github.com/user-attachments/assets/0e38fc80-ca73-4613-95f6-11f85cbe07cc" />
+
 
 
 **Historical Scouting Success Business Case:** Analyzing the historical draft success of the Sacramento Monarchs.
