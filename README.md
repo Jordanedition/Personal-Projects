@@ -6,7 +6,7 @@ This project leverages a historical database of WNBA draft results to extract ac
 
 The analysis is built on a comprehensive draft history table:
 
-**WNBA_DRAFT:** Historical records of every draft pick, including player college, career win shares, and scoring averages.
+**WNBA_DRAFT(1997-2022):** Historical records of every draft pick, including player college, career win shares, and scoring averages.
 
 **📈 Analytical Deep Dives**
 
