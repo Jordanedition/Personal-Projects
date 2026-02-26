@@ -14,6 +14,9 @@ The analysis is built on a comprehensive draft history table:
 
 This analysis calculates the average career Win Shares for each draft position (1–10). This helps a front office determine if the cost of trading up is justified by the expected increase in player production.
 
+<img width="800" height="500" alt="Draft ROI Chart" src="https://github.com/user-attachments/assets/a5c473d9-9960-4cca-b8be-7f48ebc060d5" />
+
+
 **Historical Scouting Success Business Case:** Analyzing the historical draft success of the Sacramento Monarchs.
 
 This query identifies the most impactful draft picks in Monarchs history by ranking players based on their career Win Shares. It highlights the organization's ability to identify elite talent in both the lottery and late first round.
