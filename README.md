@@ -24,4 +24,5 @@ This query identifies the most impactful draft picks in Monarchs history by rank
 
 <img width="150" height="400" alt="1" src="https://github.com/user-attachments/assets/8050f7a5-498f-46a0-ac16-951a9c12581b" /> <img width="150" height="400" alt="2" src="https://github.com/user-attachments/assets/f1b02440-ba35-4b37-b45a-3cb16c216946" /> <img width="150" height="400" alt="3" src="https://github.com/user-attachments/assets/b0175b55-c4c4-4c88-a8df-796b263a67df" /> <img width="150" height="400" alt="4" src="https://github.com/user-attachments/assets/2a336f55-8024-4e9d-ba7f-5705214b21c3" /> <img width="150" height="400" alt="5" src="https://github.com/user-attachments/assets/890431b6-cd38-4e80-a945-adf09e9a44bb" />
 
-**Click here to explore the Interactive Talent Dashboard:** https://public.tableau.com/app/profile/martinsolomon/viz/WNBA_17721280711290/Dashboard1
+**Click here to explore the Interactive Talent Dashboard:** [
+](https://public.tableau.com/views/SacramentoMonarchs/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
